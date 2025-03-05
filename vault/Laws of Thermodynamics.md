@@ -13,3 +13,6 @@ For every [[Thermodynamic System]] there exists a property called energy. The en
 For every [[Thermodynamic System]] there exists a property called [[Entropy]], which describes the disorder in the system. If the system is closed the entropy can only stay constant or increase.
 
 # 3rd Law
+
+The [[Entropy]] of a perfect [[Crystalline Material|crystal]] at absolute
+zero (0 K) is zero.

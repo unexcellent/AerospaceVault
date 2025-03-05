@@ -1,8 +1,6 @@
 #uni/courses/thermo1 
 
-Symbol: $R_{m}$
+Symbol: $R_{u}, R$
 Value: $8.314 \frac{J}{mol \cdot K}$
 
-$$
-R_{m} = R \cdot M
-$$
+The universal gas constant is a physical constant relating energy to [[Temperature]] and [[Amount of Substance]].

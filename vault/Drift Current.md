@@ -5,11 +5,11 @@ Electrons move against the field direction, holes with the field direction.
 
 ![[Pasted image 20231222163218.png|400]]
 
-The charge carriers are not accelerated arbitrarily in this process, since they are scattered by the crystal grid. This results in a constant average charge carrier velocity $v$ which is coupled to the field strength by the charge carrier mobility $μ$:
+The charge carriers are not accelerated arbitrarily in this process, since they are scattered by the crystal grid. This results in a constant average charge carrier [[Velocity]] $v$ which is coupled to the field strength by the charge carrier mobility $μ$:
 $$
 v_{n} = -\mu_{n} \cdot E \qquad v_{p} = -\mu_{p} \cdot E
 $$
--> $v$: Charge carrier velocity
+-> $v$: Charge carrier [[Velocity]]
 -> $\mu$: [[Charge Carrier Mobility]]
 -> $E$: [[Electric Field]]
 

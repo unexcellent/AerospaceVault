@@ -6,7 +6,7 @@ Part of the [[Non-Ferrous Metal|non-ferrous metals]]. Fourth most common materia
 
 | Property                             | Value                    |
 | ------------------------------------ | ------------------------ |
-| Density                              | $4.51 \frac{g}{cm^{3}}$  |
+| [[Density]]                          | $4.51 \frac{g}{cm^{3}}$  |
 | Melting Point                        | $1620 ºC$                |
 | [[Modulus of Elasticity]]            | $115 \ GPa$              |
 | [[Coefficient of Thermal Expansion]] | $8.36 \frac{10^{-6}}{K}$ |

@@ -26,11 +26,14 @@ Given $a,b,C \in \mathbb{R}$
 | $f(x) + g(x)$  | $\int f(x) + \int g(x)$                           |
 | $\sin x$       | $-\cos x + C$                                     |
 | $\cos x$       | $\sin x + C$                                      |
+| $\tan x$       | $- \ln \| \cos x \|$                              |
+| $\sin x \cos x$       | $- \frac{cos(2x)}{4}$                              |
 | $\sin^{2} x$   | $\frac{x-\sin(x) \cdot \cos(x)}{2}$               |
 | $\cos^{2} x$   | $\frac{x-\sin(x) \cdot \cos(x)}{2}$               |
 | $\tan^{2} x$   | $\tan(x) - x$                                     |
 | $\sin^{3} x$   | $\frac{1}{12} \cdot (\cos(3x) - 9 \cdot \cos(x))$ |
 | $\cos^{3} x$   | $\frac{1}{12} \cdot (\sin(3x) + 9 \cdot \sin(x))$ |
+| $\cot x$       | $\ln \| \sin x\|$                                 |
 | $e^{x}$        | $e^{x} + C$                                       |
 | $\frac{1}{x}$  | $\ln{x} + C$                                      |
 | $\log_{a}x$    | $\dfrac{1}{x \cdot \ln a} + C$                    |

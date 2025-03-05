@@ -20,5 +20,5 @@ Radical chain [[Polymer Synthesis#Polymerization|polymerization]].
 | ---------------------------------------------- | ----------- |
 | Crystallinity $[\%]$                           | amorphous   |
 | [[Modulus of Elasticity]] $[\frac{N}{mm^{2}}]$ | $3100-3300$ |
-| Density $[\frac{g}{cm^{3}}]$                   | $1.04-1.05$ |
+| [[Density]] $[\frac{g}{cm^{3}}]$               | $1.04-1.05$ |
 | Service [[Temperature]] $[ºC]$                 | $-30 - 70$  |

@@ -38,7 +38,7 @@ $$
 $$
 \overrightarrow{R} = -|\overrightarrow{R}| \cdot \frac{v_{el}}{|v_{el}|}
 $$
-- The amount is independent of the amount of the relative velocity.
+- The amount is independent of the amount of the relative [[Velocity]].
 - The sliding friction is proportional to the normal force and independent of the size of the contact surface. The law of friction according to Coulomb is:
 $$
 |\overrightarrow{R}| = \mu \cdot |\overrightarrow{N}|

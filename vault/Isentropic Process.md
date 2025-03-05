@@ -53,4 +53,4 @@ $$
 \eta = \frac{c_{1}^{2} - c_{2}^{2}}{c_{1}^{2} - c_{2*}^2}
 $$
 -> $\eta$: [[Thermal Efficiency]]
--> $c$: flow velocity
+-> $c$: flow [[Velocity]]

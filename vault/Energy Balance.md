@@ -5,7 +5,7 @@ $$
 \dot{E}_{sys} = \left( h + \frac{c^{2}}{2} + g z\right) \cdot \left( \sum_{i} \dot{m}_{i} - \sum_{o} \dot{m}_{o} \right) + \sum_{j} \dot{Q}_{j} + \sum_{k} \dot{W}_{t,k}
 $$
 -> $h$: [[Thermodynamic State#Specific Property|specific]] [[Enthalpy]]
--> $c$: flow velocity
+-> $c$: flow [[Velocity]]
 -> $g$: gravitational acceleration
 -> $z$: potential height
 -> $\dot{m}_{i}$: rate of [[Mass]] inflow

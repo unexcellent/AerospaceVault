@@ -6,8 +6,8 @@ Part of the [[Non-Ferrous Metal|non-ferrous metals]]. Highly available in Earth'
 
 | Property                             | Value                   |
 | ------------------------------------ | ----------------------- |
-| Density                              | $1.74 \frac{g}{cm^{3}}$ |
-| Melting Point                        | $651ºC$                 |
+| [[Density]]                          | $1.74 \frac{g}{cm^{3}}$ |
+| [[Melting]] Point                    | $651ºC$                 |
 | [[Modulus of Elasticity]]            | $45 \ GPa$              |
 | [[Coefficient of Thermal Expansion]] | $25 \frac{10^{-6}}{K}$  |
 | [[Strength\|Tensile Strength]]       | $80-180 \ MPa$          |

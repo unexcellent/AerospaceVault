@@ -7,4 +7,3 @@ Friction is an effect, that converts movement into [[Heat]].
 - [[Dry Friction]]
 - [[Viscosity]]
 - [[Elastic Deformation]]
-- [[Skin Friction]]

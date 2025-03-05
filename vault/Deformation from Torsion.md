@@ -27,7 +27,7 @@ x \\ \alpha \\ r
 x \\ \alpha + \phi(x) \\ r
 \end{pmatrix}
 $$
--> $x$: position along the x-axis
+-> $x$: [[Position]] along the x-axis
 -> $\alpha$: initial twist angle
 -> $r$: radius from the x-axis
 -> $\phi$: twist angle

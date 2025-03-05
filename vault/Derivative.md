@@ -45,7 +45,9 @@ Given $a,b \in \mathbb{R}$
 | $e^{x}$              | $e^{x}$                                                 |
 | $\ln x$              | $\dfrac{1}{x}$                                          |
 | $\log_{a}x$          | $\dfrac{1}{x \cdot \ln a}$                              |
-| $a^{x}$              | $\ln(a) \cdot a^{x}$                                                      |
+| $a^{x}$              | $\ln(a) \cdot a^{x}$                                    |
+| $\sinh x$            | $\cosh x$                                                        |
+| $\cosh x$            | $\sinh x$                                                        |
 
 # Derivative of Inverse Function
 

@@ -1,6 +1,6 @@
 #uni/courses/thermo1 
 
-Symbol: $\gamma$
+Symbol: $\gamma, k$
 Unit: $1$
 
 The isentropic exponent is the ratio between [[Heat Capacity#Heat Capacity at Constant Pressure|isobaric]] and [[Heat Capacity#Heat Capacity at Constant Volume|isochoric heat capacity]].

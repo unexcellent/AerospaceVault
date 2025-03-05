@@ -26,5 +26,5 @@ Radical [[Polymer Synthesis#Polymerization|polymerization]] of vinyl chloride in
 | ---------------------------------------------- | ----------- | ----------- |
 | Crystallinity $[\%]$                           | amorphous   | amorphous   |
 | [[Modulus of Elasticity]] $[\frac{N}{mm^{2}}]$ | $2700-3000$ | $25-1600$   |
-| Density $[\frac{g}{cm^{3}}]$                   | $1.38-1.40$ | $1.15-1.28$ |
+| [[Density]] $[\frac{g}{cm^{3}}]$               | $1.38-1.40$ | $1.15-1.28$ |
 | Service [[Temperature]] $[ºC]$                 | $-5 - 65$   | $-50-70$    |

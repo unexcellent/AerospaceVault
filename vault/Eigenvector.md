@@ -4,7 +4,7 @@ During some [[Change of Basis|change of basis]] [[Linear Transformation|transfor
 $$
 A \cdot v_{i} = \lambda_{i} \cdot I_{n} \cdot v_{i} \quad \Rightarrow \quad (A - \lambda_{i} \cdot I_{n}) \cdot v_{i} = 0
 $$
--> [[Matrix#Identity Matrix]]
+-> $I$: [[Matrix#Identity Matrix|identity matrix]]
 
 This can only be valid if $\det(A - \lambda I_{n}) = 0$. $\det(A - \lambda I_{n})$ represents a [[Polynomial and Rational Functions|polynomial]] $P_{A}(\lambda)$ of degree $n$ in $\lambda$, which is called the characteristic polynomial of $A$.
 To determine the eigenvectors, this polynomial has to solved:

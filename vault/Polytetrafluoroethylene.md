@@ -17,5 +17,5 @@ Under high [[Pressure]] with peroxides as initiators. Activation for chain [[Pol
 | ---------------------------------------------- | ------------ |
 | Crystallinity $[\%]$                           | 55-90        |
 | [[Modulus of Elasticity]] $[\frac{N}{mm^{2}}]$ | $400-750$    |
-| Density $[\frac{g}{cm^{3}}]$                   | $2.13-2.23$  |
+| [[Density]] $[\frac{g}{cm^{3}}]$               | $2.13-2.23$  |
 | Service [[Temperature]] $[ºC]$                 | $-200 - 250$ |

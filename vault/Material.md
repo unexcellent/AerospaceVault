@@ -17,7 +17,7 @@ A material is a **solid** substance used in the manufacturing of a technical pro
 
 ## Physical Properties
 
-- density
+- [[Density]]
 - magnetic properties
 - electrical properties
 - [[Thermal Expansion]]

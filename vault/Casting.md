@@ -22,7 +22,7 @@ A [[Primary Shaping]] method used to create cohesion from the liquid phase.
 
 ## Casted [[Aluminum]]
 
-- Lower density than steel or casted iron 
+- Lower [[Density]] than steel or casted iron 
 - Broad variety of alloying elements allow tailorability of properties 
 - [[Corrosion]] resistant 
 - weldable
@@ -35,7 +35,7 @@ A [[Primary Shaping]] method used to create cohesion from the liquid phase.
 ## Elongation at Break
 
 ![[Pasted image 20240630144952.png|400]]
-## Density
+## [[Density]]
 
 ![[Pasted image 20240630145013.png|400]]
 

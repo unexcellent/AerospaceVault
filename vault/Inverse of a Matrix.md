@@ -17,6 +17,20 @@ a_{n1} & a_{n2} & \cdots & a_{nn} & | & 0 & 0 & \cdots & 1
 $$
 The left side of the equation should then first be converted into the upper-triangular form and then the identity matrix using the [[Gauss-Jordan-Algorithm]]. The matrix on the right side is then equal to $A^{-1}$.
 
+Another approach is to use the following formula for a $2 \times 2$ matrix:
+$$
+A := \begin{pmatrix}
+a & b \\
+c & d
+\end{pmatrix}
+\quad \Rightarrow \quad
+A^{-1} = \frac{1}{\det A} \begin{pmatrix}
+d & -b \\
+-c & a
+\end{pmatrix}
+$$
+with $\det$ referring to the [[Determinant of a Matrix]].
+
 # Properties
 
 - If $A$ is invertible, then $A$ is [[Matrix#Regularity of a Matrix|regular]]

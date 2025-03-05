@@ -24,6 +24,18 @@ $$
 ds_{\text{irr}} = \frac{dw_{f}}{T} = \frac{du + p \ dv}{T} = \frac{dh - v \ dp}{T}
 $$
 
+# Entropy Change Caused by Mixing
+
+If two gases [[Gas Mixture|mix]], entropy is increased by the formula
+$$
+\Delta S_{i} = - n_{i} \cdot R_{u} \cdot \ln \left( \frac{n_{i}}{n_{m}} \right) = - n_{i} \cdot R \cdot \ln \left( x_{i} \right)
+$$
+-> $\Delta S_{i}$: entropy change of component $i$
+-> $n_{i}$: [[Amount of Substance]] of component $i$
+-> $R$: [[Universal Gas Constant]]
+-> $n_{m}$: [[Amount of Substance]] of the mixture
+-> $x_{i}$: mass fraction of component $i$
+
 # Entropy Diagram
 
 [[Process Path|Process paths]] can be visualized in Entropy-[[Temperature]]-Diagrams or T-s diagrams.

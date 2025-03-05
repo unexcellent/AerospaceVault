@@ -1,4 +1,4 @@
-#uni/courses/thermo1 
+#uni/courses/thermo1 #uni/courses/thermo2 
 
 A stagnation point is a point in a flow field, where the local velocity of the [[Fluid]] is zero.
 

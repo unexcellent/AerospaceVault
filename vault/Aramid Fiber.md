@@ -6,7 +6,7 @@ Organic artificial [[Reinforcing Fiber]], consist of macro polymeric chains. Man
 
 - High stiffness 
 - High tensile strength 
-- Low density (1.45 g/cm3) 
+- Low [[Density]] (1.45 g/cm3) 
 - Better impact resistance (3.5% failure strain) 
 - Non-conductive 
 - Good resistance to organic solvents

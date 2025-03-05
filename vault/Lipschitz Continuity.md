@@ -2,4 +2,4 @@
 
 Lipschitz continuity is an extension of the [[Continuity]] criterion in [[Function|functions]], which states that the function slope at any point can not exceed a constant $K \ge 0$ (called the Lipschitz constant).
 
-![[Lipschitz_Visualisierung.gif]]
+![[Lipschitz_Visualisierung.gif|500]]

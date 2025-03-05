@@ -18,7 +18,7 @@ A class of [[Material]] consisting of ca. known 65,000 members.
 
 ## Disadvantages
 
-- High density (steel)
+- High [[Density]] (steel)
 - Sensitive to corrosion
 - Sensitive to chemical resistance
 - Low damping & shock absorption

@@ -6,8 +6,8 @@ Part of the [[Non-Ferrous Metal|non-ferrous metals]]. Third most common material
 
 | Property                       | Value                            |
 | ------------------------------ | -------------------------------- |
-| Density                        | $2.7 \frac{g}{cm^{3}}$           |
-| Melting Point                  | $660ºC$                          |
+| [[Density]]                    | $2.7 \frac{g}{cm^{3}}$           |
+| [[Melting]] Point              | $660ºC$                          |
 | [[Modulus of Elasticity]]      | $70 \ GPa$                       |
 | [[Strain#Thermal Strain]]      | $25 \frac{10^{-6}}{K}$           |
 | [[Electrical Conductivity]]    | $37.6 \cdot 10^{6} \frac{A}{Vm}$ |

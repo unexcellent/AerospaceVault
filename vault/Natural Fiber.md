@@ -8,7 +8,7 @@ A group of [[Composite Material]] found in nature.
 
 # Comparison
 
-## Density
+## [[Density]]
 
 ![[Pasted image 20240629184836.png|250]]
 

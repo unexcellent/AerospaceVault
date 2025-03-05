@@ -1,6 +1,6 @@
 #uni/courses/mech2 
 
 Symbol: $\alpha$
-Unit: $\dfrac{1}{s^{2}}$
+Unit: $\dfrac{rad}{s^{2}}$
 
-Rotational equivalent to acceleration.
+Angular acceleration is the first [[Derivative]] of [[Angular Velocity]] and the rotational equivalent to [[Acceleration]].

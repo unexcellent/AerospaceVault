@@ -10,7 +10,7 @@ Aircraft Engines are [[Brayton Cycle#Open Brayton Cycle|open Brayton cycle]] eng
 
 # Diffusers and Nozzles
 
-Diffusers and Nozzles convert flow velocity into [[Temperature]] and [[Pressure]] and vice versa
+Diffusers and Nozzles convert flow [[Velocity]] into [[Temperature]] and [[Pressure]] and vice versa
 - diffusers and nozzles are considered [[Thermodynamic System#Steady System|steady]], [[Adiabatic Process|adiabatic]] and do not perform work
 - change of cross sectional area leads to change of velocity for a constant mass flow rate $$\dot{m} = \rho_{in} \cdot c_{in} \cdot A_{in} = \rho_{out} \cdot c_{out} \cdot A_{out}$$
 - change in velocity leads to change in enthalpy $$0 = \left( h_{in} + \frac{c_{in}^{2}}{2} \right) - \left( h_{out} + \frac{c_{out}^{2}}{2} \right)$$

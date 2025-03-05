@@ -16,5 +16,5 @@ Chain [[Polymer Synthesis#Polymerization|polymerization]].
 | ---------------------------------------------- | ----------- |
 | Crystallinity $[\%]$                           | amorphous   |
 | [[Modulus of Elasticity]] $[\frac{N}{mm^{2}}]$ | $3000-3300$ |
-| Density $[\frac{g}{cm^{3}}]$                   | $1.17-1.19$ |
+| [[Density]] $[\frac{g}{cm^{3}}]$               | $1.17-1.19$ |
 | Service [[Temperature]] $[ºC]$                 | $-40 - 75$  |

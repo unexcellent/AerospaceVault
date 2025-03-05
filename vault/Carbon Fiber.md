@@ -4,7 +4,7 @@
 
 # Properties
 
-- Low density ($1.7 – 1.9 \frac{g}{cm^{3}}$) 
+- Low [[Density]] ($1.7 – 1.9 \frac{g}{cm^{3}}$) 
 - Negative [[Thermal Expansion]]
 - Anisotropic (axial vs transversal) 
 - High [[Modulus of Elasticity|modulus]] and [[Strength]] 
